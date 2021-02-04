@@ -20,6 +20,9 @@
 		508526721E52FDC000D611F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		508526791E52FE7800D611F4 /* MKGradientGenerator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MKGradientGenerator.swift; sourceTree = "<group>"; };
 		5085267A1E52FE7800D611F4 /* MKRingProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MKRingProgressView.swift; sourceTree = "<group>"; };
+		D0595EB725CC521D00A7E946 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		D0595EB825CC521D00A7E946 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D0595EB925CC521D00A7E946 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +39,9 @@
 		508526641E52FDC000D611F4 = {
 			isa = PBXGroup;
 			children = (
+				D0595EB925CC521D00A7E946 /* LICENSE */,
+				D0595EB725CC521D00A7E946 /* Package.swift */,
+				D0595EB825CC521D00A7E946 /* README.md */,
 				508526701E52FDC000D611F4 /* MKRingProgressView */,
 				5085266F1E52FDC000D611F4 /* Products */,
 			);
